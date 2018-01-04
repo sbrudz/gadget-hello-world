@@ -37,8 +37,8 @@ Here are the steps I followed to get this published to the Google Apps Marketpla
       1. Then check the "Gmail contextual gadget extension" with:
         1. **Extractor URL:** google.com:HelloWorld
         1. **Gadget URL:** http://sbrudz.github.io/gadget-hello-world/hello_world_gadget.xml
-        1. **Extractor param name:** <leave blank>
-        1. **Extractor param value:** <leave blank>
+        1. **Extractor param name:** hello
+        1. **Extractor param value:** .*
         1. **Scopes:** "Mail - Subject Line" and "Mail - Message Body"
     1. Click the "Save changes" button
     1. Click the "Test installation flow" button

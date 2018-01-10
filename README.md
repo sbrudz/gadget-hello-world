@@ -3,7 +3,7 @@ A "Hello World" contextual gmail gadget based on https://developers.google.com/g
 
 Hosted on github pages at: http://sbrudz.github.io/gadget-hello-world/
 
-**NOTE:** The steps below do not result in a fully working gadget.  It shows up as being installed but no card is displayed when an email with "Hello World" is received.  A PR to fix this issue would be welcome.  In the meantime, I recommend writing a Google Chrome or a Firefox extension instead.
+**NOTE:** I can no longer get the steps below to create a fully working gadget.  It shows up as being installed but no card is displayed when an email with "Hello World" is received.  I recommend writing a Google Chrome or a Firefox extension instead.
 
 ## Steps to Publish
 
